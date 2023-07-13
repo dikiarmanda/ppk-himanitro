@@ -1,7 +1,7 @@
 ---
-title: "Test"
-description: "This is an example category"
-slug: "test"
+title: "Project"
+description: "Projects of PPK HIMANITRO UMSIDA"
+slug: "project"
 image: "hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg"
 style:
     background: "#2a9d8f"

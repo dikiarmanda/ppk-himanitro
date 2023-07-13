@@ -69,7 +69,7 @@ enabled = true
 default = "PPK HIMANITRO | 2023"
 
 [params.comments]
-enabled = true
+enabled = false
 provider = "disqus"
 
 [params.comments.disqusjs]
