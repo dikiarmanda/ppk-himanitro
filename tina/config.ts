@@ -38,9 +38,9 @@ export default defineConfig({
             label: "Description",
           },
           {
-            type: 'string',
-            name: 'slug',
-            label: 'Slug',
+            type: "string",
+            name: "slug",
+            label: "Slug",
             required: true,
           },
         ],
