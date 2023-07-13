@@ -1,0 +1,16 @@
+{
+  "name": "ppk-himanitro",
+  "version": "1.0.0",
+  "description": "Official website of PPK HIMANITRO UMSIDA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["PPK ORMAWA","PPK HIMANITRO","UMSIDA"],
+  "author": "Diki Armanda",
+  "license": "ISC",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.24",
+    "tinacms": "^1.5.15"
+  }
+}
