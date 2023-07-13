@@ -22,8 +22,8 @@ export default defineConfig({
     collections: [
       {
         name: "post",
-        label: "Posts",
-        path: "content/posts",
+        label: "Post",
+        path: "content/post",
         fields: [
           {
             type: "string",
@@ -31,6 +31,32 @@ export default defineConfig({
             label: "Title",
             isTitle: true,
             required: true,
+          },
+          {
+            type: 'datetime',
+            name: 'date',
+            label: 'Created At',
+            required: true,
+          },
+          {
+            type: 'string',
+            name: 'Categories',
+            label: 'categories',
+            description: 'Categories for this post',
+            list: true,
+            ui: {
+              component: 'tags',
+            }
+          },
+          {
+            type: 'string',
+            name: 'tags',
+            label: 'Tags',
+            description: 'Tags for this post',
+            list: true,
+            ui: {
+              component: 'tags',
+            }
           },
           {
             type: "rich-text",
