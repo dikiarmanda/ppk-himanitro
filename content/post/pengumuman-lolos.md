@@ -3,7 +3,7 @@ title: Pengumuman Lolos
 date: 2023-05-12T22:24:29.000Z
 draft: false
 categories:
-    - Project
+    - Kontribusi Masyarakat
 
 # image: Gambar WhatsApp 2023-06-16 pukul 13.28.04.jpg
 ---

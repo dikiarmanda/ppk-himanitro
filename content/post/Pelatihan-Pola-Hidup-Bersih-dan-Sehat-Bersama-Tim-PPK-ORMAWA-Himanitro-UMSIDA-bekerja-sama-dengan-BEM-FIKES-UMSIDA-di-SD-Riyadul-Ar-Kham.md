@@ -2,6 +2,7 @@
 title: >-
   Pelatihan Pola Hidup Bersih dan Sehat Bersama Tim PPK ORMAWA Himanitro UMSIDA
   bekerja sama dengan BEM FIKES UMSIDA di SD Riyadul Ar Kham
+draft: false
 description: >-
   Tim PPK ORMawa HImanitro UMSIDA bekerja sama dengan BEM FIKES UMSIDA telah
   sukses mengadakan pelatihan pola hidup bersih dan sehat di SD Riyadul Ar Kham.
