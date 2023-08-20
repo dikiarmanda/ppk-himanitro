@@ -21,7 +21,7 @@ tags:
   - Event
 ---
 
-![](/IMG_9493.JPG)
+![Pelatihan PHBS di SD Riyadul Ar Kham](/IMG_9493.JPG)
 
 24 Juli 2023, Plintahan – Dalam upaya mendukung peningkatan kesehatan dan kualitas hidup masyarakat, tim PPK Himanitro Universitas Muhammadiyah Sidoarjo (UMSIDA) bekerja sama dengan Badan Eksekutif Mahasiswa Fakultas Ilmu Kesehatan (BEM FIKES) UMSIDA menggelar pelatihan pola hidup bersih dan sehat di SD Riyadul Ar
 Kham desa Plintahan, Pandaan, Pasuruan, Jawa Timur.
